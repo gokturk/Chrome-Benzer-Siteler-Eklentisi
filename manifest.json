@@ -1,6 +1,6 @@
 {
-  "name": "Related Google",
-  "description": "Search for pages that are similar to a URL.",
+  "name": "Benzer Sayfalar",
+  "description": "Begendiginiz bir web sitesinin benzerini bulur.",
   "version": "1.0",
   "background_page": "background.html",
   "permissions": [
@@ -9,7 +9,7 @@
 	"https://*/*"
   ],
   "browser_action": {
-      "default_title": "ReGoogle",
+      "default_title": "Benzer Sayfalar",
       "default_icon": "icon.png"
   }
 }
