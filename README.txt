@@ -1,9 +1,9 @@
-ReGoogle: Google ile Yeniden Keşfet
+<h1>Google ile Yeniden KeÅŸfet</h1>
 
-Beğendiğiniz bir web sitesinin benzerini Google'da bulan bir Chrome eklentisi.
+BeÄŸendiÄŸiniz bir web sitesinin benzerini Google'da bulan bir Chrome eklentisi.
 
 KURULUMU
-Tüm dosyaları indirin ve silmemek üzere bilgisayarınıza kaydedin. Adres çubuğundan chrome://extensions/ yazarak Uzantılarınıza ulaşın. Sağ üst taraftan "Geliştirici Modu" yazanı işaretleyin. "Paketlenmemiş uzantıyı yükle..." butonundan daha önce bilgisayarınıza kaydettiğiniz ReGoogle dosyasını yükleyin.
+TÃ¼m dosyalarÄ± indirin ve silmemek Ã¼zere bilgisayarÄ±nÄ±za kaydedin. Adres Ã§ubuÄŸundan chrome://extensions/ yazarak uzantÄ±larÄ±nÄ±za ulaÅŸÄ±n. SaÄŸ Ã¼st taraftan "GeliÅŸtirici Modu" yazanÄ± iÅŸaretleyin. "PaketlenmemiÅŸ uzantÄ±yÄ± yÃ¼kle..." butonundan daha Ã¶nce bilgisayarÄ±nÄ±za kaydettiÄŸiniz bu uygulamanÄ±n dosyasÄ±nÄ± yÃ¼kleyin.
 
-İyi Şanslar ;)
+Ä°yi ÅŸanslar ;)
 http://twitter.com/msariyaz
