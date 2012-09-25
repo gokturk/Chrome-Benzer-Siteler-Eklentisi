@@ -1,4 +1,4 @@
-<h1>Google ile Yeniden Keşfet</h1>
+Google ile Yeniden Keşfet
 
 Beğendiğiniz bir web sitesinin benzerini Google'da bulan bir Chrome eklentisi.
 
