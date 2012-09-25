@@ -1,0 +1,17 @@
+<html>
+<head>
+<script>
+
+// Hi. I'm Mert. You can follow me on Twitter. Thanks. http://twitter.com/msariyaz
+
+	chrome.browserAction.onClicked.addListener(function(tab) {
+	var action_url = "javascript:(function(){ document.location.href='http://www.google.com/search?q=related:'+escape(document.location.href) })();";
+	chrome.tabs.update(tab.id, {url: action_url});
+});
+
+</script>  
+</head>
+</html>
+
+
+
