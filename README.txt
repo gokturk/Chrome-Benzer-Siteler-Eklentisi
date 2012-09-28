@@ -4,7 +4,7 @@ Beğendiğiniz bir web sitesinin benzerini Google'da bulan bir Chrome eklentisi.
 
 GÖRÜNÜMÜ
 
-![ikon](http://cloud.github.com/downloads/gokturk/Chrome-Benzer-Siteler-Eklentisi/ikon.png)
+http://cloud.github.com/downloads/gokturk/Chrome-Benzer-Siteler-Eklentisi/ikon.png
 
 KURULUMU
 
